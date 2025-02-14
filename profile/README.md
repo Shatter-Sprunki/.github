@@ -1,6 +1,6 @@
 # Shatter Sprunki
 
-Step into the whimsical world of **Shatter Sprunki**, a charming fan-made mod that transforms the classic Incredibox music creation game. 
+Step into the whimsical world of **Shatter Sprunki** (Shatter Sprunk), a charming fan-made mod that transforms the classic Incredibox music creation game. 
 
 👉👉 Click to play [Shatter Sprunki](https://sprunkly.org/game/shatter-sprunki)
 
